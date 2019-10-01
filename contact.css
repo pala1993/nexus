@@ -1,0 +1,149 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Glegoo);
+body {
+  font-family: "Roboto", sans-serif;
+  height: auto !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  line-height: 22px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+body {
+  background: #ffffff;
+}
+
+ul {
+  padding-left: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.navbar ul li a:hover {
+    color: #02bdd5;
+} 
+
+.clear{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+#top-bar{
+    background: #fff;
+    color: #fff;
+    transition: all 0.2s ease-out 0s;
+    padding: 15px 0;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid #dedede;
+}
+
+#top-bar .navbar li a:hover {
+    background: transparent;
+  }
+  
+  #top-bar.animated-header {
+    padding: 20px 0;
+    background: #fff;
+    box-shadow: none;
+  }
+  
+  #top-bar ul li {
+    position: relative;
+  }
+  
+  #top-bar ul li a {
+    color: #444;
+    font-size: 14px;
+    font-weight: 500;
+    border-bottom: 2px solid transparent;
+    transition: .3s all;
+    text-transform: uppercase;
+  }
+  
+  #top-bar ul li a:hover {
+    color: #02bdd5;
+  }
+
+  .mt-85{
+      margin-top: 85px;
+  }
+
+  .carousel img{
+      height: 500px;
+  }
+  
+
+
+
+
+
+.btn{
+    background-color: #02bdd5;
+    color: #fff;
+    font-size: 13px;
+}
+
+.div1{
+    background-color: #02bdd5;
+    color: #ffffff;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.p1{
+    font-size: large;
+}
+
+.head1{
+    color: #02bdd5;
+
+}
+
+.card{
+    box-shadow: 0 0 5px #acdce6;
+    height: 226px;
+}
+
+/* .card1{
+    background-color: #02bdd5;
+    color: #ffffff;
+} */
+
+
+.i1,.i2{
+    color: #02bdd5;
+}
+
+.head2{
+    font-size: 22px;
+    color: #000000d1;
+}
+
+.btn:hover {
+    color: white;
+}
+
+a:hover,.a{
+    text-decoration: none;
+    color: white;
+}
+
+.a1{
+ color: white;
+}
